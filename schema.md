@@ -63,3 +63,24 @@
   - A Moray Eel was spotted by Ezra Flip in the Coral Reef.
   - A Dolphin was spotted by Javed Patrick in the Shallows.
   - A Moray Eel was spotted by Ezra Flip in the Shallows.
+
+  mariana = 1
+  Javed = 2
+  carolina = 3
+  jazmyn = 4
+  erza = 5
+
+
+
+  flip = 1
+  nox = 2
+  jenkins  = 3
+  salley = 4
+  flapjack = 5
+  skip = 6
+  gibbous = 7
+
+  shallows = 1
+  coral = 2
+  tide = 3
+  deeps = 4
